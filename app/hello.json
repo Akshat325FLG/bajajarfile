@@ -1,0 +1,18 @@
+{
+  "user": {
+    "id": 12345,
+    "name": "John Doe",
+    "address": {
+      "street": "1234 Elm St.",
+      "city": "Springfield",
+      "destination": "1234 Elm Street, Springfield, IL"
+    }
+  },
+  "destination": "Main Office, 3rd Floor",
+  "other_info": {
+    "random_field": "some value",
+    "nested_object": {
+      "destination": "Backup Site, 5th Floor"
+    }
+  }
+}
